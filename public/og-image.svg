@@ -1,0 +1,27 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F6F3E9"/>
+  <path d="M0 54.5H1200M0 575.5H1200" stroke="#17211B"/>
+  <path d="M72 0V630M1128 0V630" stroke="#CDD1C6"/>
+  <rect x="715" y="54" width="413" height="522" fill="#B9E9D1" stroke="#17211B" stroke-width="2"/>
+  <circle cx="921.5" cy="307.5" r="153.5" fill="url(#ticks)" stroke="#17211B" stroke-width="2"/>
+  <circle cx="921.5" cy="307.5" r="126" fill="#B9E9D1" stroke="#17211B" stroke-width="2"/>
+  <path d="M921.5 181.5A126 126 0 1 1 811 368" stroke="#F1FF54" stroke-width="32"/>
+  <path d="M922 307V204" stroke="#FF5C35" stroke-width="4"/>
+  <path d="M871 277.2 921.5 247l50.5 30.2v60.6L921.5 368 871 337.8v-60.6Z" fill="#F1FF54" stroke="#17211B" stroke-width="4"/>
+  <path d="M921.5 247v121M871 277.2l101 60.6M972 277.2l-101 60.6" stroke="#17211B" stroke-width="2.5"/>
+  <circle cx="921.5" cy="307.5" r="22" fill="#FFFDF6" stroke="#17211B" stroke-width="4"/>
+  <path d="M921.5 292v15.5l10.5 6" stroke="#17211B" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="921.5" cy="307.5" r="3" fill="#FF5C35"/>
+  <text x="72" y="105" fill="#17211B" font-family="monospace" font-size="16" font-weight="700" letter-spacing="2">PRECISION CAPTIONS / 001</text>
+  <text x="72" y="255" fill="#17211B" font-family="Arial, sans-serif" font-size="104" font-weight="700" letter-spacing="-8">Timer</text>
+  <text x="72" y="350" fill="#17211B" font-family="Georgia, serif" font-size="112" font-style="italic" letter-spacing="-7">Studio.</text>
+  <text x="75" y="417" fill="#526058" font-family="Georgia, serif" font-size="27">SRT countdowns, stopwatches,</text>
+  <text x="75" y="451" fill="#526058" font-family="Georgia, serif" font-size="27">and number counters for video.</text>
+  <rect x="75" y="502" width="218" height="42" fill="#17211B"/>
+  <text x="92" y="529" fill="#FFFDF6" font-family="monospace" font-size="14" font-weight="700" letter-spacing="1.5">FREE · BROWSER-BASED</text>
+  <defs>
+    <pattern id="ticks" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <path d="M0 0V8" stroke="#17211B" stroke-width="2"/>
+    </pattern>
+  </defs>
+</svg>

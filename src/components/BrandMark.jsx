@@ -1,0 +1,19 @@
+export function BrandMark({ className = '', decorative = false }) {
+  return (
+    <svg
+      className={className}
+      viewBox="0 0 48 48"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      aria-hidden={decorative ? 'true' : undefined}
+      role={decorative ? undefined : 'img'}
+      aria-label={decorative ? undefined : 'Timer Studio'}
+    >
+      <path d="M8 15.5 24 6l16 9.5v17L24 42 8 32.5v-17Z" fill="#F1FF54" stroke="#17211B" strokeWidth="2" />
+      <path d="M24 6v36M8 15.5l32 17M40 15.5 8 32.5" stroke="#17211B" strokeWidth="1.4" />
+      <circle cx="24" cy="24" r="7.25" fill="#FFFDF6" stroke="#17211B" strokeWidth="2" />
+      <path d="M24 19v5l3.5 2" stroke="#17211B" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" />
+      <circle cx="24" cy="24" r="1.3" fill="#FF5C35" />
+    </svg>
+  )
+}
